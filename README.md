@@ -31,5 +31,7 @@ MySQL
 [Music_store_Raw_data](https://github.com/Adinarayana7008/Music_Store_Data_Analysis_using_SQL/blob/main/Music_store_Raw_data.rar)
 
 ### Dataset schema screenshot
-![Music_store_Database_Schema](https://github.com/Adinarayana7008/Music_Store_Data_Analysis_using_SQL/assets/68777627/46567096-002f-4900-a595-aa9118e39349)
+![music_store_database_MySQL_schema_daigram](https://github.com/Adinarayana7008/Music_Store_Data_Analysis_using_SQL/assets/68777627/63508b4b-4bff-4f37-b8c2-6fc486b26698)
+
+
 
